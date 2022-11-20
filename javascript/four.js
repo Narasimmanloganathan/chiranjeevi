@@ -21,5 +21,5 @@ if (z<=x && z<=y){
         console.log(x, z, y);
     }else{
         console.log(z, x, y);'.'
-    }.
+    }
 }
