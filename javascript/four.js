@@ -20,6 +20,6 @@ if (z<=x && z<=y){
     if(x<z){
         console.log(x, z, y);
     }else{
-        console.log(z, x, y);
-    }
+        console.log(z, x, y);'.'
+    }.
 }
