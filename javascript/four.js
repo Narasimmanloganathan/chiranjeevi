@@ -1,4 +1,4 @@
-let x=1000;
+/*let x=1000;
 let y=20000;
 let z=5300;
 
@@ -22,4 +22,6 @@ if (z<=x && z<=y){
     }else{
         console.log(z, x, y);'.'
     }
-}
+}*/
+let a1= narasimman
+console.log(a1);
